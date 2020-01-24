@@ -1,7 +1,7 @@
-baseURL: "https://example.com"
+baseURL: "https://aadimator.com"
 languageCode: "en-us"
-title: "Hugo Novela"
-pygmentsstyle: 'monokai'
+title: "aadimator"
+pygmentsstyle: "monokai"
 
 # Theme settings
 theme: novela
