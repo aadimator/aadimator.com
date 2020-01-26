@@ -1,4 +1,4 @@
-@import "https://fonts.googleapis.com/css?family=Muli:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap";body{--serif: "Merriweather", Georgia, Serif;--sanserif: "Muli", "SF Pro Display", "-apple-system", "BlinkMacSystemFont",
+@import "https://fonts.googleapis.com/css?family=Muli:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap";body{--serif: Georgia, Serif;--sanserif: "Muli", "SF Pro Display", "-apple-system", "BlinkMacSystemFont",
     "San Francisco", "Helvetica Neue", "Helvetica", "Ubuntu", "Roboto", "Noto",
     "Segoe UI", "Arial", sans-serif;--monospace: "Operator Mono", Consolas, Menlo, Monaco, source-code-pro,
     Courier New, monospace;--color-mode-transition: background 0.25s var(--ease-in-out-quad),
