@@ -2,16 +2,13 @@ baseURL: "https://aadimator.com"
 languageCode: "en-us"
 title: "aadimator"
 pygmentsstyle: "monokai"
+sectionPagesMenu: "main"
 
 # Theme settings
 theme: novela
-paginate: 6
-social:
-  twitter: "#"
-  github: "#"
-  instagram: "#"
-  linkedin: "#"
-  dribbble: "#"
-  youtube: "#"
+paginate: 8
 taxonomies:
   author: authors
+  tag: tags
+  category: categories
+  series: series

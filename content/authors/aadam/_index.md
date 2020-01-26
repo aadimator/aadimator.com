@@ -1,18 +1,18 @@
 ---
-title: Dennis Brotzky
+title: Aadam
 bio: |
   Written by You. This is where your author bio lives. Share your work, your
   joys and of course, your Twitter handle.
-avatar: /images/dennis-brotzky.jpg
+avatar: /images/aadam.jpg
 featured: false
 social:
   - title: unsplash
     url: https://unsplash.com
   - title: github
     url: https://github.com
-  - title: github
+  - title: twitter
     url: https://github.com
-  - title: github
+  - title: medium
     url: https://github.com
   - title: github
     url: https://github.com
