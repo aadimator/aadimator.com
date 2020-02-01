@@ -1,7 +1,7 @@
 ---
 title: Machine Learning with TensorFlow on Google Cloud Platform Specialization - Initial Review
 date: 2018-07-15
-hero: https://images.unsplash.com/photo-1460411794035-42aac080490a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=0ac4682102c2ceeca0b6a2f480fb5ef2
+hero: hero.jpg
 excerpt:
 timeToRead: 3
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Begin Robotics — First Week Review
 date: 2017-08-01
-hero: https://res-1.cloudinary.com/aadimator/image/upload/q_auto/v1/blog/begin-robotics.jpg
+hero: hero.jpg
 excerpt: After dabbling in Machine Learning and Deep Learning for a few months, I’ve decided to dip my toes into the field of Robotics. My favorite pastime is to learn about new things and to explore the uncharted territory. For now, my heart is set on learning about the Robots, getting a general overview as to how they perform their functions and how to train and build a robot.
 timeToRead: 3
 categories:
@@ -18,7 +18,7 @@ I’m not very enthusiastic about the hardware side of the robots but the softwa
 
 After checking out several courses on [Class Central](https://www.class-central.com/tag/robotics), I chose [Begin Robotics](https://www.futurelearn.com/courses/begin-robotics?lr=66) because it seemed to be perfect for me, just the right amount of information. It wasn’t focused on just a single aspect, hardware or software, but how different pieces interact with one another. No prior knowledge was required and no hardware or software was necessary to complete the course. Furthermore, the quality of the course also seemed to be better than some other MOOCs.
 
-{{< figure src="https://res-5.cloudinary.com/aadimator/image/upload/q_auto/v1/blog/begin-robotics-course.png" >}}
+{{< figure src="https://res-5.cloudinary.com/aadimator/image/upload/q_auto/v1/blog/begin-robotics-course.png" class="Image__Medium" >}}
 
 After completing the first week, I’m happy that I chose this course. The quality of the content is remarkable without being too technical and hard to understand. Their teaching methodology is incredible, some well thought-out video lectures to lure you in, a few articles to whet your appetite, and to top it off the **interactive exercises** work wonders.
 

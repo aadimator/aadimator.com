@@ -1,7 +1,7 @@
 ---
 title: Resources for Learning Machine Learning
 date: 2018-03-13
-hero: https://images.unsplash.com/photo-1497633762265-9d179a990aa6?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=b2cc0286c8af5744326a1f7c5971b29d
+hero: hero.jpg
 excerpt: If you are interested in learning about Machine Learning, as everyone should be, I've compiled a list of resources that I've found to be quite valuable throughout my journey to become a Machine Learning Engineer.
 timeToRead: 3
 categories:
@@ -24,13 +24,13 @@ Throughout my life, I've found books to be the most valuable resource that one c
 
 ### [A Course in Machine Learning](http://ciml.info/)
 
-{{< figure src="https://res-2.cloudinary.com/aadimator/image/upload/q_auto/v1/blog/a-course-in-ml.png" caption="A Course in Machine Learning Book Cover" >}}
+{{< figure src="https://res-2.cloudinary.com/aadimator/image/upload/q_auto/v1/blog/a-course-in-ml.png" caption="A Course in Machine Learning Book Cover"  class="Image__Small">}}
 
 This books gives a general introduction to the different algorithms being used in the Machine Learning. Instead of relying heavily on math to explain the concepts, it uses ideas and models from the real-world. You can download this book for **free** although there is a catch, this book is a **work in progress** so some parts of the book and the algorithms might not have been written as of yet. But still, I highly recommend this book.
 
 ### [Machine Learning in Action](https://www.amazon.com/Machine-Learning-Action-Peter-Harrington/dp/1617290181)
 
-{{< figure src="https://images.manning.com/720/960/resize/book/c/4d7bb26-5e33-4b6a-b71b-2fa35958c0d9/pharrington.png" >}}
+{{< figure src="https://images.manning.com/720/960/resize/book/c/4d7bb26-5e33-4b6a-b71b-2fa35958c0d9/pharrington.png"  class="Image__Small" >}}
 
 This book follows a more hands-on approach with **Python** programs accompanying different Machine Learning algorithms to further solidify the concepts. I find this way of teaching more effective as one could easily test out different algorithms and experiment with them to see what works and how. I haven't completed this book as of yet but I'm planning to do so in the near future.
 
