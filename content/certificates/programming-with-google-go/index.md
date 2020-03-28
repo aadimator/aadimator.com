@@ -1,22 +1,25 @@
 ---
 title: Programming with Google Go
-subtitle: A lovely new website design for this household name technology company.
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+subtitle: Learn basics of Golang while building concurrent Go applications.
+description: This specialization introduces the Go programming language from Google
+  and provides learners with an overview of Go's special features. Upon completing
+  the three-course sequence, I gained the knowledge and skills needed to create concise,
+  efficient, and clean applications using Go.
 color: 89A67C
 featured: true
 categories:
-  - Certificates
-  - Coursera
+- Certificates
 tags:
-  - Certificates
-  - Coursera
+- Certificates
+- Coursera
 authors:
-  - Aadam
+- Aadam
 resources:
-  - src: "**.webp"
-    name: "Certificate: Programming with Google Go"
----
+- src: "**.webp"
+  name: 'Certificate: Programming with Google Go'
+date: 2019-02-26T21:21:59Z
 
-This Specialization introduces fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, I used the technologies learned throughout the Specialization to design and create applications for data retrieval, processing, and visualization.
+---
+This specialization introduces the Go programming language from Google and provides learners with an overview of Go's special features. Upon completing the three-course sequence, I gained the knowledge and skills needed to create concise, efficient, and clean applications using Go.
 
 [Link to the certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/MCQEBV9WPS59)
