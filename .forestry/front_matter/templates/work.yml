@@ -37,3 +37,5 @@ fields:
       required: false
     label: Button Link
     description: Button follow link
+pages:
+- content/work.md
