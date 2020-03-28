@@ -2,7 +2,7 @@
 hero:
   heading: Hi, my <br>name is <b>Aadam</b>
   subheading: I'm an <b>independent software developer</b> turned Machine Learning
-    engineer who loves building intelligent applications.
+    engineer.
   button: Get in touch
   buttonLink: "mailto:aadimator@gmail.com?subject=\U0001F918 Hi Aadam, I'd like to
     hire you"
