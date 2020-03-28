@@ -5,6 +5,8 @@ type: work
 sections:
   - title: About my work
     description: I work with forward-thinking people to design and build <b>interactive, accessible websites and products</b>. From working on projects for likes of UNHCR, RNLI, The National Trust, and Honda, to working at startups in Tokyo, I've devoted more than a decade to <b>making the web a little bit brighter</b>.
+    button:
+    buttonLink:
   - title: Considered development
     description: <p>No two projects are the same and I take a pragmatic approach to each job I take on, focussing on delivering work that is as accessible and optimised as possible.</p> <p>More than a decade of experience building complex interfaces means that I'm happy to deliver anything from single-page apps to scaleable design systems. I can help you identify the most appropriate technology for your project and, whilst I love a good framework, you can be sure that I will never use tech for tech's sake. </p>
     image: /static/images/undraw_coding_6mjf.svg
