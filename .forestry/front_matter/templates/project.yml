@@ -5,9 +5,12 @@ fields:
 - type: text
   name: title
   label: title
-- type: textarea
-  name: excerpt
-  label: excerpt
+- name: colorpicker
+  type: color
+  label: colorPicker
+  config:
+    required: false
+    color_format: Hex
 - type: text
   name: color
   label: color
@@ -20,6 +23,15 @@ fields:
 - type: textarea
   name: description
   label: description
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
 - type: list
   name: categories
   label: categories
