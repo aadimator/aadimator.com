@@ -32,14 +32,14 @@ sections:
   image: "/static/images/undraw_work_together_h63l.svg"
   button: ''
   buttonLink: ''
-- title: Server-side is my jam(stack)
-  description: "<p>Beyond front-end development, I'm a JAMstack specialist. Cloud
-    CMS platforms, lambda functions, site-generators - Whatever your requirements,
-    I'm happy to help you plan, build and deliver a JAMstack project that's fast,
-    secure and reliable.</p> <p>If JAMstack isn't your thing, I'm equally at home
-    developing for other server-side technologies. If you need help putting together
-    an application or API with Node.js and Express, or Python and Django, then I've
-    got your back.</p>"
+- title: Machine Learning Specialist
+  description: "<p>Beyond machine learning development, I'm also a generalist. Web
+    applications, Cloud development, lambda functions, JAMstack, mobile applications
+    - whatever your requirements, I'm happy to help you plan, build and deliver a
+    product that's fast, smart, secure and reliable.</p><p>If Machine Learning isn't
+    your thing, I'm equally at home developing for other software technologies. If
+    you need help putting together an application or API with Flutter and Firebase,
+    or Python and Django, then I've got your back.</p>"
   image: "/static/images/undraw_programming_2svr.svg"
   button: ''
   buttonLink: ''
