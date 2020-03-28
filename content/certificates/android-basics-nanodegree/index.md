@@ -1,22 +1,27 @@
 ---
 title: Android Basics Nanodegree
-subtitle: A lovely new website design for this household name technology company.
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+subtitle: A basic Android development Nanodegree by Udacity and Google.
+description: In this Nanodegree, I learned the basics of Android programming along
+  with the best practices that are used to develop professional Android applications.
+  I completed several Android apps along the way to solidify the concepts that I was
+  learning throughout the Nanodegree program.
 color: 416BBF
-featured: true
+featured: false
 categories:
-  - Certificates
-  - Udacity
+- Certificates
 tags:
-  - Certificates
-  - Udacity
+- Android
+- Certificates
+- Udacity
 authors:
-  - Aadam
+- Aadam
 resources:
-  - src: "**.webp"
-    name: "Certificate: Android Basics Nanodegree"
----
+- src: "**.webp"
+  name: 'Certificate: Android Basics Nanodegree'
+colorpicker: "#416BBF"
+date: 2016-10-17T20:58:13Z
 
+---
 In this Nanodegree, I learned the basics of Android programming along with the best practices that are used to develop professional Android applications. I completed several Android apps along the way to solidify the concepts that I was learning throughout the Nanodegree program.
 
 ---
