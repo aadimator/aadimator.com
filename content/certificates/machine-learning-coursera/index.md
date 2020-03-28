@@ -1,23 +1,30 @@
 ---
 title: Machine Learning
-subtitle: A lovely new website design for this household name technology company.
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
-color: 365953
+subtitle: One of the best courses on Machine Learning, taught by Andrew Ng.
+description: In this class, I learned about the most effective machine learning techniques
+  and gained practice in implementing them and getting them to work for myself. More
+  importantly, I learned about not only the theoretical underpinnings of the techniques
+  but also gained the practical know-how needed to quickly and powerfully apply these
+  techniques to new problems. Finally, I learned about some of Silicon Valley's best
+  practices in innovation as it pertains to machine learning and AI.
+color: "365953"
 featured: true
 categories:
-  - Certificates
-  - Coursera
+- Certificates
+- Coursera
 tags:
-  - Certificates
-  - Coursera
+- Machine Learning
+- Certificates
+- Coursera
 authors:
-  - Aadam
+- Aadam
 resources:
-  - src: "**.webp"
-    name: "Certificate: Machine Learning"
----
+- src: "**.webp"
+  name: 'Certificate: Machine Learning'
+date: 2017-08-25T21:14:42Z
 
-In this class,I learned about the most effective machine learning techniques, and gained practice implementing them and getting them to work for myself. More importantly,I learned about not only the theoretical underpinnings of learning, but also gained the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, I learned about some of Silicon Valley's best practices in innovation as it pertains to machine learning and AI.
+---
+In this class, I learned about the most effective machine learning techniques and gained practice in implementing them and getting them to work for myself. More importantly, I learned about not only the theoretical underpinnings of the techniques but also gained the practical know-how needed to quickly and powerfully apply these techniques to new problems. Finally, I learned about some of Silicon Valley's best practices in innovation as it pertains to machine learning and AI.
 
 This course provides a broad introduction to machine learning, data mining, and statistical pattern recognition.
 
