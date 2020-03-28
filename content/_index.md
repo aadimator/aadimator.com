@@ -11,7 +11,7 @@ work:
   heading: Let's work <br>together
   subheading: "<p>From computer vision to natural language processing, recommender
     systems to something more experimental with reinforcement learning, I help awesome
-    people to build intelligent yet accessible products - the wilder, the better.</p>"
+    people in building intelligent yet accessible products - the wilder, the better.</p>"
   button: About my approach
   buttonLink: "/work"
   image: static/images/undraw_Artificial_intelligence_oyxx.svg
