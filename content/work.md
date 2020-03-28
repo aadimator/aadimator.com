@@ -14,8 +14,8 @@ sections:
 - title: Considered development
   description: "<p>No two projects are the same and I take a pragmatic approach to
     each job I take on, focussing on delivering work that is as accessible and optimized
-    as possible.</p><p>More than a decade of experience building complex interfaces
-    means that I'm happy to deliver anything from single-page apps to scalable design
+    as possible.</p><p>More than half a decade of experience building complex applications
+    means that I'm happy to deliver anything from single-page apps to scalable distributed
     systems. I can help you identify the most appropriate technology for your project
     and, whilst I love a good framework, you can be sure that I will never use tech
     for tech's sake.</p>"
