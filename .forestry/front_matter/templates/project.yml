@@ -1,0 +1,41 @@
+---
+label: project
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: excerpt
+  label: excerpt
+- type: text
+  name: color
+  label: color
+- type: boolean
+  name: featured
+  label: featured
+- type: text
+  name: subtitle
+  label: subtitle
+- type: textarea
+  name: description
+  label: description
+- type: list
+  name: categories
+  label: categories
+- type: list
+  name: tags
+  label: tags
+- type: list
+  name: authors
+  label: authors
+- type: field_group_list
+  name: resources
+  label: resources
+  fields:
+  - type: text
+    name: src
+    label: src
+  - type: text
+    name: name
+    label: name
