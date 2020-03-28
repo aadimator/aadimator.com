@@ -1,22 +1,26 @@
 ---
 title: Java Programming and Software Engineering Fundamentals Specialization
-subtitle: A lovely new website design for this household name technology company.
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+subtitle: Solved rigorous computational problems in new contexts using Java.
+description: This Specialization will teach you core programming concepts and equip
+  you to write programs to solve complex problems. In addition, you will gain the
+  foundational skills a software engineer needs to solve real-world problems, from
+  designing algorithms to testing and debugging your programs.
 color: 6A9AD9
 featured: true
 categories:
-  - Certificates
-  - Coursera
+- Certificates
+- Coursera
 tags:
-  - Certificates
-  - Coursera
+- Certificates
+- Coursera
 authors:
-  - Aadam
+- Aadam
 resources:
-  - src: "**.webp"
-    name: "Certificate: Java Programming and Software Engineering Fundamentals Specialization"
----
+- src: "**.webp"
+  name: 'Certificate: Java Programming and Software Engineering Fundamentals Specialization'
+date: 2016-01-29T21:12:31Z
 
+---
 After completing this Specialization, you’ll be able to develop your own Java programs using a principled problem-focused approach. You’ll be prepared to solve rigorous computational problems in new contexts, and to pursue further study in computer science and software development.
 
 This Specialization will teach you core programming concepts and equip you to write programs to solve complex problems. In addition, you will gain the foundational skills a software engineer needs to solve real-world problems, from designing algorithms to testing and debugging your programs.
