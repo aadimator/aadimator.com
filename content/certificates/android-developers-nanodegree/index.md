@@ -10,8 +10,8 @@ color: '038C65'
 featured: true
 categories:
 - Certificates
-- Udacity
 tags:
+- Android
 - Certificates
 - Udacity
 authors:
