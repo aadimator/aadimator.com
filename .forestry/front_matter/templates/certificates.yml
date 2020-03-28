@@ -11,6 +11,12 @@ fields:
 - type: textarea
   name: description
   label: description
+- name: colorpicker
+  type: color
+  label: colorPicker
+  config:
+    required: false
+    color_format: Hex
 - type: text
   name: color
   label: color
