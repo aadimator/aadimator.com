@@ -1,0 +1,41 @@
+---
+label: work
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: type
+  label: type
+- type: field_group_list
+  name: sections
+  label: sections
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: description
+    label: description
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - name: button
+    type: text
+    config:
+      required: false
+    label: button
+    description: Button text for section
+  - name: buttonLink
+    type: text
+    config:
+      required: false
+    label: Button Link
+    description: Button follow link
+pages:
+- content/work.md
