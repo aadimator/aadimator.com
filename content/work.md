@@ -23,12 +23,12 @@ sections:
   button: ''
   buttonLink: ''
 - title: Code Choreography
-  description: "<p>I sweat the little details that bring a design to life. But, whether
-    it's full-on WebGL or a UI interaction, animation isn’t just about looking cool
-    - Good interaction design grounds an interface with a sense of space and logic.</p>
-    <p>I combine nuanced timing and motion with a deep understanding of browser rendering
-    to deliver logical interactions that are both full of character and outrageously
-    smooth.</p>"
+  description: "<p>I sweat the little details that bring a product to life. But, whether
+    it's a full-on web application or a simple cloud function, it isn’t just about
+    running code - Good coding design patterns ground an application with a sense
+    of efficiency and reliability.</p><p>I combine good software development principles
+    with a deep understanding of machine learning theory to deliver innovative products
+    that are both intelligent and outrageously efficient.</p>"
   image: "/static/images/undraw_work_together_h63l.svg"
   button: ''
   buttonLink: ''
