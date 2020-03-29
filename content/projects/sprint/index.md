@@ -24,7 +24,8 @@ description: |-
   Used Email service provider API to notify users of the status of their jobs.
 colorpicker: "#FB9D9D"
 featured: false
-subtitle: A secure paper printing portal for Universities
+subtitle: An online Secure Paper Printing portal to be used by Faculty Members in
+  the University.
 
 ---
 - Developed an online Secure Paper Printing portal, Sprint, which is used by Faculty Members in the University for efficient and organized paper printing.
