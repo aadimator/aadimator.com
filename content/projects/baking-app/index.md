@@ -1,21 +1,24 @@
 ---
 title: Make A Baking App
-subtitle: A lovely new website design for this household name technology company.
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+subtitle: 'An android application to show video recipes. '
+description: Created an Android app to view video recipes that incorporated media
+  loading, verifying user interfaces with UI tests, integrated third-party libraries,
+  and provided a complete UX with home screen widget.
 color: 007AFF
 featured: true
 categories:
-  - Android
+- Android
 tags:
-  - Featured
-  - Android
+- Featured
+- Android
 authors:
-  - Aadam
+- Aadam
 resources:
-  - src: "**project_image**"
-    name: "Project Image #:counter"
----
+- src: "**project_image**"
+  name: 'Project Image #:counter'
+colorpicker: "#007AFF"
 
+---
 Created an Android app to view video recipes that incorporated
 
 - media loading
