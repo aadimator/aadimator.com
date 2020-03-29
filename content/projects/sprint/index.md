@@ -23,7 +23,7 @@ description: |-
 
   Used Email service provider API to notify users of the status of their jobs.
 colorpicker: "#FB9D9D"
-featured: false
+featured: true
 subtitle: An online Secure Paper Printing portal to be used by Faculty Members in
   the University.
 
