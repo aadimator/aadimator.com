@@ -37,7 +37,7 @@ sections:
   create: all
   match: "**/index.md"
   templates:
-  - projects
+  - project
 - type: directory
   path: content/certificates
   label: Certificates
