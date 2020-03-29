@@ -5,7 +5,7 @@ description: Created an Android app to view video recipes that incorporated medi
   loading, verifying user interfaces with UI tests, integrated third-party libraries,
   and provided a complete UX with home screen widget.
 color: 007AFF
-featured: true
+featured: false
 categories:
 - Android
 tags:
