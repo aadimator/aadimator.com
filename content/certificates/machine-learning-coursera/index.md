@@ -1,12 +1,11 @@
 ---
 title: Machine Learning
 subtitle: One of the best courses on Machine Learning, taught by Andrew Ng.
-description: I learned about the most effective machine learning techniques and gained
-  practice in implementing them and getting them to work for myself. More importantly,
-  I learned about not only the theoretical underpinnings of the techniques but also
-  gained the practical know-how needed to quickly and powerfully apply these techniques
-  to new problems. Finally, I learned about some of Silicon Valley's best practices
-  in innovation as it pertains to machine learning and AI.
+description: I learned about the most effective machine learning techniques and practiced
+  implementing them. I learned about not only the theoretical underpinnings of the
+  techniques but also gained the practical know-how needed to quickly and powerfully
+  apply these techniques to new problems. I learned about some of Silicon Valley's
+  best practices in innovation as it pertains to machine learning and AI.
 color: "365953"
 featured: true
 categories:
