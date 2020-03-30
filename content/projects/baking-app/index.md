@@ -4,7 +4,7 @@ subtitle: 'An android application to show video recipes. '
 description: Created an Android app to view video recipes that incorporated media
   loading, verifying user interfaces with UI tests, integrated third-party libraries,
   and provided a complete UX with home screen widget.
-color: 007AFF
+color: 396ad3
 featured: false
 categories:
 - Android
@@ -16,7 +16,7 @@ authors:
 resources:
 - src: "**project_image**"
   name: 'Project Image #:counter'
-colorpicker: "#007AFF"
+colorpicker: "#396AD3"
 
 ---
 Created an Android app to view video recipes that incorporated
