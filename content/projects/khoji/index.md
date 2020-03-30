@@ -7,6 +7,8 @@ featured: true
 subtitle: An Augmented Reality based Location Tracker and Visualizer.
 description: Designed and Implemented a system that tracks the locations of a user's
   contacts in real-time and displays their locations makers using Augmented Reality.
+  Added real-time chatting functionality so users could talk to one another without
+  leaving the app.
 categories:
 - Android
 - Augmented Reality
