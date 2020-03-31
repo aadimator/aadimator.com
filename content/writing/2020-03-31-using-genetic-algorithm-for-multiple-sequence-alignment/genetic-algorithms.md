@@ -9,3 +9,14 @@ timeToRead: 5
 hero: ''
 
 ---
+Optimization Problems
+
+Nature Inspired Algo
+
+GA intro
+
+GA methodology
+
+GA Steps (along with code)
+
+GA considerations
