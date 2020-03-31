@@ -31,6 +31,10 @@ fields:
     min: 
     max: 
     step: 
+- name: draft
+  type: boolean
+  label: draft
+  default: true
 - name: hero
   type: file
   config:
