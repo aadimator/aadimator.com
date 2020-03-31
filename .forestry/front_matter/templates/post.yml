@@ -44,3 +44,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/writing/2020-03-31-using-genetic-algorithm-for-multiple-sequence-alignment/genetic-algorithms.md
