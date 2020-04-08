@@ -46,3 +46,4 @@ fields:
   label: Authors
 pages:
 - content/writing/2020-03-31-using-genetic-algorithm-for-multiple-sequence-alignment/genetic-algorithms.md
+- content/writing/30-day-leetcoding-challenge-week-1.md
