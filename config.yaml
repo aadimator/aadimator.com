@@ -12,3 +12,10 @@ taxonomies:
   tag: tags
   category: categories
   series: series
+
+params:
+  photoWidths:
+    - 1140
+    - 720
+    - 480
+    - 320
