@@ -9,14 +9,16 @@ timeToRead: 5
 hero: ''
 
 ---
-Optimization Problems
+What is multiple sequence alignment (MSA)? Well, it's the alignment of multiple sequence alignments. Okay, then what is sequence alignment? Sequence alignment is the alignment of sequences such that it maximizes the similarity between two sequences. 
 
-Nature Inspired Algo
+## Sequence Alignment
 
-GA intro
+## Pairwise Sequence Alignment
 
-GA methodology
+### Scoring
 
-GA Steps (along with code)
+### Global
 
-GA considerations
+### Local
+
+## Multiple Sequence Alignment
