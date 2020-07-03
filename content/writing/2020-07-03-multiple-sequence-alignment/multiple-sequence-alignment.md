@@ -2,9 +2,9 @@
 draft: true
 authors:
 - Aadam
-title: Genetic Algorithms
-excerpt: A simple introduction to the genetic algorithms
-date: 2020-03-30T19:00:00Z
+title: Multiple Sequence Alignment
+excerpt: A gentle introduction to Multiple Sequence Alignment
+date: 2020-07-02T19:00:00Z
 timeToRead: 5
 hero: ''
 
